@@ -1,4 +1,4 @@
-# Json to Markdown converter
+# Booknote Converter
 
 This tool converts my personal notation of transactions to a csv format that can be read by [Homebank](http://homebank.free.fr/en/index.php).  
 Written for personal usage. The motivation behind this is that I write down all payments made with cash, i.e. anything I don't have a receipt for, to get a more complete overview of my finances. In the past I have transferred the notes I take manually, but since the notation is easy to understand I have automated this step.
